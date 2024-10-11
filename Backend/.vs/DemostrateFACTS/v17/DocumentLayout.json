@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DemostrateFACTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|e:\\demostratefacts\\demostratefacts\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|solutionrelative:demostratefacts\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|e:\\demostratefacts\\demostratefacts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|solutionrelative:demostratefacts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|e:\\demostratefacts\\demostratefacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|solutionrelative:demostratefacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|e:\\demostratefacts\\demostratefacts\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|solutionrelative:demostratefacts\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|e:\\demostratefacts\\demostratefacts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B798C2CD-4700-4D25-ABAD-A2625EAD7525}|DemostrateFACTS\\DemostrateFACTS.csproj|solutionrelative:demostratefacts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\DemostrateFACTS\\DemostrateFACTS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemostrateFACTS\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\DemostrateFACTS\\DemostrateFACTS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemostrateFACTS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T01:42:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DemostrateFACTS\\DemostrateFACTS\\Program.cs",
+              "RelativeDocumentMoniker": "DemostrateFACTS\\Program.cs",
+              "ToolTip": "E:\\DemostrateFACTS\\DemostrateFACTS\\Program.cs",
+              "RelativeToolTip": "DemostrateFACTS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:43:34.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DemostrateFACTS\\DemostrateFACTS\\appsettings.json",
+              "RelativeDocumentMoniker": "DemostrateFACTS\\appsettings.json",
+              "ToolTip": "E:\\DemostrateFACTS\\DemostrateFACTS\\appsettings.json",
+              "RelativeToolTip": "DemostrateFACTS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T03:43:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\DemostrateFACTS\\DemostrateFACTS\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "DemostrateFACTS\\Data\\UserDbContext.cs",
+              "ToolTip": "E:\\DemostrateFACTS\\DemostrateFACTS\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "DemostrateFACTS\\Data\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:43:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\DemostrateFACTS\\DemostrateFACTS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DemostrateFACTS\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\DemostrateFACTS\\DemostrateFACTS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DemostrateFACTS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:44:24.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
