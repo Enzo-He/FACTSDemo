@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "WwODFpIN+g9kGV/+Q1RPhldmCWaGYNUrDKBWIBjRQ54=",
+  "Hash": "wioiJ6eaC8AV1Iyp6LxTihsEZSDhyQTe+cLmyFdc+NE=",
   "Source": "DemostrateFACTS",
   "BasePath": "_content/DemostrateFACTS",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
